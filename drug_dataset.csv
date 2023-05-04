@@ -1,0 +1,34 @@
+Age,Sex,BP,Cholesterol,Na_to_K,Drugs_Taken,Prohibited_Drugs
+35,M,HIGH,HIGH,2.5,Aspirin,Ibuprofen
+52,F,NORMAL,HIGH,3.2,Lisinopril,None
+45,M,LOW,NORMAL,2.9,None,Ibuprofen Naproxen
+68,F,HIGH,HIGH,2.1,Aspirin,None
+30,M,NORMAL,NORMAL,3.8,Naproxen,Lisinopril Simvastatin
+56,F,HIGH,NORMAL,2.3,Aspirin,Ibuprofen Naproxen
+42,M,NORMAL,HIGH,2.6,Hydrochlorothiazide,Aspirin Ibuprofen Naproxen
+35,M,NORMAL,NORMAL,2.5,Lisinopril,NSAIDs
+50,F,HIGH,HIGH,3.0,Amlodipine,Warfarin Ibuprofen
+62,M,HIGH,NORMAL,2.0,Losartan,Digoxin Naproxen
+45,F,LOW,NORMAL,2.8,Hydrochlorothiazide,Methotrexate Aspirin
+55,M,HIGH,HIGH,2.2,Valsartan,Dipyridamole Celecoxib
+70,F,HIGH,HIGH,2.7,Metoprolol,Diclofenac Dipyridamole
+42,M,NORMAL,NORMAL,3.5,Carvedilol,Naproxen Ticlopidine
+28,F,LOW,NORMAL,2.8,Nifedipine,Aspirin Warfarin
+60,M,HIGH,HIGH,2.5,Lisinopril,Ibuprofen Celecoxib
+35,M,HIGH,HIGH,2.5,Simvastatin,Ibuprofen
+52,F,NORMAL,HIGH,3.2,Hydrochlorothiazide,None
+52,F,NORMAL,HIGH,3.2,Lovastatin,None
+68,F,HIGH,HIGH,2.1,Lisinopril,None
+68,F,HIGH,HIGH,2.1,Hydrochlorothiazide,None
+68,F,HIGH,HIGH,2.1,Simvastatin,None
+56,F,HIGH,NORMAL,2.3,Lovastatin,Ibuprofen Naproxen
+42,M,NORMAL,HIGH,2.6,Lovastatin,Aspirin Ibuprofen Naproxen
+35,M,NORMAL,NORMAL,2.5,Simvastatin,NSAIDs
+50,F,HIGH,HIGH,3.0,Atorvastatin,Warfarin Ibuprofen
+62,M,HIGH,NORMAL,2.0,Rosuvastatin,Digoxin Naproxen
+45,F,LOW,NORMAL,2.8,Lovastatin,Methotrexate Aspirin
+55,M,HIGH,HIGH,2.2,Pravastatin,Dipyridamole Celecoxib
+28,F,LOW,NORMAL,2.8,Atorvastatin,Aspirin Warfarin
+60,M,HIGH,HIGH,2.5,Rosuvastatin,Ibuprofen Celecoxib
+70,F,HIGH,HIGH,2.7,Ezetimibe,Diclofenac Dipyridamole
+42,M,NORMAL,NORMAL,3.5,Fluvastatin,Naproxen Ticlopidine
